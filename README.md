@@ -1,10 +1,10 @@
 # Archive of Iranian Armenian
-This GitHub repository is a temporary placeholder for our fieldwork recordings on Iranian Armenian. This GitHub repository and its associated DOI can be used for finding this repository for the time being. This archive is assoicated with our grammar on Iranian Armenian (Dolatian et al in review).
+This GitHub repository is a temporary placeholder for our fieldwork recordings on Iranian Armenian. This GitHub repository and its associated DOI can be used for finding this repository for the time being. This archive is associated with our grammar on Iranian Armenian (Dolatian et al in review).
 
 The grammar contains details on our glossing, transcriptions, paradigms, and consultants. For the transcriptions in this archive, the only zero morphs that we segment are the auxiliary and past morphs: [∅-i-m]  is-PST-1SG, ‘I was’, [e-∅-ɻ] is-PST-3SG ‘he was’, [jeɾkʰ-e-∅-ɻ] sing-TH-PST-3SG ‘(If) he sang’. 
 The other zero morphs can be surmised from the translation, such as the imperative, 3SG, connegatives, and perfective. 
  
-The archieve conists of the following:
+The archive consists of the following:
 
 1) **[Elicitations](/Elicitations)**: Recordings of word lists and elicited sentences by the consultant. 
 2) **[Text](/SampleText)**: Sample text that was used in the grammar. 
@@ -24,7 +24,7 @@ The sample text is reported in the grammar. The text was taken from a public [In
 The folder contains the original [video](/SampleText/TextVideo.mp4), an extracted [audio file](/SampleText/TextAudio.wav), and a Praat [audio TextGrid](/SampleText/TextAudio.TextGrid). Glossing and transcriptions follow our grammar's conventions. 
 
 ## Grammar examples
-The phonology chapter of our grammar displayed some wave forms. These examplers were to show ejectives and to show intonation. This folder contains the original sound files and transcripts. 
+The phonology chapter of our grammar displayed some wave forms. These examples were to show ejectives and to show intonation. This folder contains the original sound files and transcripts. 
 
 The [Eastern recordings](/GrammarExamples/EasternAT) were done by a consultant AT over Facebook Messenger. The consultant recorded on her own phone on her mobile device. The quality of the recording shouldn’t be used for segmental features, but the intonational structure should be reliable. 
 
