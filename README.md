@@ -32,3 +32,10 @@ The [Iranian recordings](/GrammarExamples/IranianNK) were done by a consultant N
 
 ## Verb conjugations
 The grammar went over all the conjugation classes that we could find. This folder provides the complete paradigms for these classes as a set of [`xlsx`](/VerbConjugation/XLSX) and [`tsv`](/VerbConjugation/TSV) files. The structure of these files are explained in the [README](/VerbConjugation/README.md). These paradigms are complete in the sense that, for a given class, we give the inflected form for all possible inflectional features. The grammar focused more on giving partial paradigms to improve readability. 
+
+## References
+DiCanio, Christian (2020). Sound file subdivision. Accessed from https://www.acsu.buffalo.edu/~cdicanio/scripts/Sound_file_division.praat; April 15 2022.
+ 
+Dolatian, Hossep, Karine Megerdoomian, Afsheen Sharifzadeh, and Bert Vaux (in review). Grammar of Iranian Armenian: Parskahayeren or Iranahayeren. 
+
+Sanker, Chelsea, Sarah Babinski, Roslyn Burns, Marisha Evans, Jeremy Johns, Juhyae Kim, Slater Smith, Natalie Weber, and Claire Bowern (2021). "(Don't) try this at home! The effects of recording devices and software on phonetic analysis: Supplementary material." Language 97, no. 4.
