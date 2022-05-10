@@ -36,6 +36,6 @@ The grammar went over all the conjugation classes that we could find. This folde
 ## References
 DiCanio, Christian (2020). Sound file subdivision. Accessed from https://www.acsu.buffalo.edu/~cdicanio/scripts/Sound_file_division.praat; April 15 2022.
  
-Dolatian, Hossep, Karine Megerdoomian, Afsheen Sharifzadeh, and Bert Vaux (in review). Grammar of Iranian Armenian: Parskahayeren or Iranahayeren. 
+Dolatian, Hossep, Afsheen Sharifzadeh, and Bert Vaux (prep). Grammar of Iranian Armenian: Parskahayeren or Iranahayeren. 
 
 Sanker, Chelsea, Sarah Babinski, Roslyn Burns, Marisha Evans, Jeremy Johns, Juhyae Kim, Slater Smith, Natalie Weber, and Claire Bowern (2021). "(Don't) try this at home! The effects of recording devices and software on phonetic analysis: Supplementary material." Language 97, no. 4.
