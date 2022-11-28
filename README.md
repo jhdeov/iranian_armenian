@@ -14,7 +14,7 @@ The archive consists of the following:
 ## Elicitations
 One of the grammar authors remotely recorded a speaker NK of Iranian Armenian. Recordings were all transcribed with Praat with TextGrids. The Elicitations sheet ([`xlsx`](/Elicitations/Elicitations.xlsx) and [`tsv`](/Elicitations/Elicitations.tsv)) catalogs the elicitations. Recordings were done on different days. Items were broken up into individual .wav and TextGrid files via a Praat script (DiCanio 2020). 
 
-In terms of recording quality, some of the elicitations were recorded by the consultant with Audacity on her laptop. She didn’t use an external microphone, but just the laptop’s internal microphone.  Some of the elicitations were recorded over Zoom as M4A files, then converted to WAV files. The consultant didn’t use an external microphone, but just the laptop’s internal microphone. The Elicitations sheet details how each item was recorded. 
+In terms of recording quality, some of the elicitations were recorded by the consultant with Audacity on her laptop. She didn’t use an external microphone, but just the laptop’s internal microphone.  Some of the elicitations were recorded over Zoom as M4A files, then converted to WAV files. The consultant didn’t use an external microphone, but just the laptop’s internal microphone. Some items were recorded over Telegram or WhatsApp as voice messages. The Elicitations sheet details how each item was recorded. 
 
 The Audacity-based recordings show the clearest acoustic cues for segments. The Zoom-based recordings significantly weakens word-initial prevoicing and word-initial uvular fricatives [χ,ʁ]. See Sanker et al 2021. 
 
