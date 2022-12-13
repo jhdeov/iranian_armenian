@@ -1,7 +1,7 @@
 # Archive of Iranian Armenian
 This GitHub repository is a temporary placeholder for our fieldwork recordings on Iranian Armenian. This GitHub repository can be used for finding this repository for the time being. This archive is associated with our grammar on Iranian Armenian (Dolatian et al in review).
 
-The grammar contains details on our glossing, transcriptions, paradigms, and consultants. For the transcriptions in this archive, the only zero morphs that we segment are the auxiliary, the past morphs, and the past imperfective: [∅-i-m]  is-PST-1SG, ‘I was’, [e-∅-ɻ] is-PST-3SG ‘he was’, [jeɾkʰ-e-∅-ɻ] sing-TH-PST-3SG ‘(If) he sang’, [jeɾkʰ-∅-i-ŋkʰ] sing-TH-PST-1PL ‘(If) we sang’. 
+The grammar contains details on our glossing, transcriptions, paradigms, and consultants. For the transcriptions in this archive, the only zero morphs that we segment are the auxiliary, the past morphs, and the subjunctive past: [∅-i-m]  is-PST-1SG, ‘I was’, [e-∅-ɻ] is-PST-3SG ‘he was’, [jeɾkʰ-e-∅-ɻ] sing-TH-PST-3SG ‘(If) he sang’, [jeɾkʰ-∅-i-ŋkʰ] sing-TH-PST-1PL ‘(If) we sang’. 
 The other zero morphs can be surmised from the translation, such as the imperative, 3SG, connegatives, and perfective. 
  
 The archive consists of the following:
